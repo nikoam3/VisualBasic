@@ -1,0 +1,17 @@
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\bin\Debug\Base_Datos.exe.config
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\bin\Debug\Base_Datos.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\bin\Debug\Base_Datos.pdb
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\bin\Debug\Base_Datos.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.vbprojAssemblyReference.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.frmSistema.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.Resources.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.vbproj.GenerateResource.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.pdb
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.frmDGV.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.frmListarPais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.frmNuevo_Cliente.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.frmEliminarCliente.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\Base_Datos\obj\Debug\Base_Datos.frmModificar.resources

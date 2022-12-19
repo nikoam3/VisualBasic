@@ -1,0 +1,68 @@
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\bin\Debug\Trabajo_Practico3.exe.config
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\bin\Debug\Trabajo_Practico3.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\bin\Debug\Trabajo_Practico3.pdb
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\bin\Debug\Trabajo_Practico3.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.vbprojAssemblyReference.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.Resources.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.vbproj.GenerateResource.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.vbproj.CoreCompileInputs.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.pdb
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmAcerca.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmList_Autores.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmSistema.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmList_Idiomas.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmList_Libros.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmList_Paises.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmConsul_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmConsul_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmConsul_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmEstad_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmEstad_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmEstad_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmGraf_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmGraf_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmGraf_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmAgre_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmAgre_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmAgre_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmAgre_Libro.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmMod_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmMod_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmMod_Libro.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 4\TP3-LP2-BASE DE DATOS\Trabajo_Practico3\obj\Debug\Trabajo_Practico3.frmMod_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\bin\Debug\Trabajo_Practico3.exe.config
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\bin\Debug\Trabajo_Practico3.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\bin\Debug\Trabajo_Practico3.pdb
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\bin\Debug\Trabajo_Practico3.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.vbprojAssemblyReference.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmAgre_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmAgre_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmAgre_Libro.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmAgre_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmMod_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmGraf_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmAcerca.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmConsul_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmConsul_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmConsul_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmEstad_Autor.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmEstad_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmEstad_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmGraf_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmGraf_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmList_Autores.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmList_Idiomas.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmList_Libros.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmList_Paises.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmMod_Idioma.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmMod_Libro.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmMod_Pais.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.frmSistema.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.Resources.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.vbproj.GenerateResource.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.vbproj.CoreCompileInputs.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\TP4-LP2-REPORTES\Trabajo_Practico4\obj\Debug\Trabajo_Practico3.pdb

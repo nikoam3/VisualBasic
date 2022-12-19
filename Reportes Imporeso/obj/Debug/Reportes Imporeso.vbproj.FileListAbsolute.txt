@@ -1,0 +1,12 @@
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes Imporeso.vbprojAssemblyReference.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes_Imporeso.frmPrincipal.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes_Imporeso.Resources.resources
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes Imporeso.vbproj.GenerateResource.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes Imporeso.vbproj.CoreCompileInputs.cache
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\bin\Debug\Reportes Imporeso.exe.config
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\bin\Debug\Reportes Imporeso.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\bin\Debug\Reportes Imporeso.pdb
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\bin\Debug\Reportes Imporeso.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes Imporeso.exe
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes Imporeso.xml
+C:\Users\Niko\Documents\MEGAsync\Univ\Analista en Sistemas\Laboratorio de Programación II\Clase 6\Reportes Imporeso\obj\Debug\Reportes Imporeso.pdb

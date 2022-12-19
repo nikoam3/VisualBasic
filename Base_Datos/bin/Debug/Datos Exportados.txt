@@ -1,0 +1,3 @@
+"Almas muertas",2,854
+"Calabaza",2,462
+"Emi",3,200

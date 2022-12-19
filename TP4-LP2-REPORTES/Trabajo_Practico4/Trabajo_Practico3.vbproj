@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B5BAF424-30FF-4300-A81D-87340D0D5A66}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Trabajo_Practico3.My.MyApplication</StartupObject>
+    <RootNamespace>Trabajo_Practico3</RootNamespace>
+    <AssemblyName>Trabajo_Practico3</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Trabajo_Practico3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Trabajo_Practico3.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos_Globales.vb" />
+    <Compile Include="frmMod_Autor.Designer.vb">
+      <DependentUpon>frmMod_Autor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMod_Autor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgre_Autor.Designer.vb">
+      <DependentUpon>frmAgre_Autor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgre_Autor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgre_Idioma.Designer.vb">
+      <DependentUpon>frmAgre_Idioma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgre_Idioma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgre_Libro.Designer.vb">
+      <DependentUpon>frmAgre_Libro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgre_Libro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAgre_Pais.Designer.vb">
+      <DependentUpon>frmAgre_Pais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAgre_Pais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGraf_Idioma.Designer.vb">
+      <DependentUpon>frmGraf_Idioma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGraf_Idioma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGraf_Pais.Designer.vb">
+      <DependentUpon>frmGraf_Pais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGraf_Pais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGraf_Autor.Designer.vb">
+      <DependentUpon>frmGraf_Autor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGraf_Autor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsul_Pais.Designer.vb">
+      <DependentUpon>frmConsul_Pais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsul_Pais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsul_Autor.Designer.vb">
+      <DependentUpon>frmConsul_Autor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsul_Autor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConsul_Idioma.Designer.vb">
+      <DependentUpon>frmConsul_Idioma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConsul_Idioma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstad_Autor.Designer.vb">
+      <DependentUpon>frmEstad_Autor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstad_Autor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstad_Idioma.Designer.vb">
+      <DependentUpon>frmEstad_Idioma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstad_Idioma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstad_Pais.Designer.vb">
+      <DependentUpon>frmEstad_Pais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstad_Pais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmList_Autores.Designer.vb">
+      <DependentUpon>frmList_Autores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmList_Autores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmList_Idiomas.Designer.vb">
+      <DependentUpon>frmList_Idiomas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmList_Idiomas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmList_Paises.Designer.vb">
+      <DependentUpon>frmList_Paises.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmList_Paises.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAcerca.Designer.vb">
+      <DependentUpon>frmAcerca.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAcerca.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmList_Libros.Designer.vb">
+      <DependentUpon>frmList_Libros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmList_Libros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMod_Idioma.Designer.vb">
+      <DependentUpon>frmMod_Idioma.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMod_Idioma.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMod_Libro.Designer.vb">
+      <DependentUpon>frmMod_Libro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMod_Libro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMod_Pais.Designer.vb">
+      <DependentUpon>frmMod_Pais.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmMod_Pais.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSistema.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSistema.Designer.vb">
+      <DependentUpon>frmSistema.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAgre_Autor.resx">
+      <DependentUpon>frmAgre_Autor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgre_Idioma.resx">
+      <DependentUpon>frmAgre_Idioma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgre_Libro.resx">
+      <DependentUpon>frmAgre_Libro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAgre_Pais.resx">
+      <DependentUpon>frmAgre_Pais.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMod_Autor.resx">
+      <DependentUpon>frmMod_Autor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGraf_Autor.resx">
+      <DependentUpon>frmGraf_Autor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAcerca.resx">
+      <DependentUpon>frmAcerca.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsul_Autor.resx">
+      <DependentUpon>frmConsul_Autor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsul_Idioma.resx">
+      <DependentUpon>frmConsul_Idioma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConsul_Pais.resx">
+      <DependentUpon>frmConsul_Pais.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstad_Autor.resx">
+      <DependentUpon>frmEstad_Autor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstad_Idioma.resx">
+      <DependentUpon>frmEstad_Idioma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstad_Pais.resx">
+      <DependentUpon>frmEstad_Pais.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGraf_Idioma.resx">
+      <DependentUpon>frmGraf_Idioma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGraf_Pais.resx">
+      <DependentUpon>frmGraf_Pais.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmList_Autores.resx">
+      <DependentUpon>frmList_Autores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmList_Idiomas.resx">
+      <DependentUpon>frmList_Idiomas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmList_Libros.resx">
+      <DependentUpon>frmList_Libros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmList_Paises.resx">
+      <DependentUpon>frmList_Paises.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMod_Idioma.resx">
+      <DependentUpon>frmMod_Idioma.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMod_Libro.resx">
+      <DependentUpon>frmMod_Libro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMod_Pais.resx">
+      <DependentUpon>frmMod_Pais.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSistema.resx">
+      <DependentUpon>frmSistema.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_libreria_logos_glow.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
